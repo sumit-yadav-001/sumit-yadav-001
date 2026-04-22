@@ -3,9 +3,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;Building+Modern+Web+Applications;Open+To+Work+🚀" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
-</p>
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/refs/heads/main/Banner.gif" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Sumit Yadav</h1>
 

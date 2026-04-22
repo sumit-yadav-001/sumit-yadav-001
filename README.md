@@ -3,13 +3,11 @@
 <h1 align="center">Hi 👋, I'm Sumit Yadav</h1>
 
 <h3 align="center">
-Full Stack MERN Developer | Next.js | React | Node.js | Problem Solver
+Full Stack MERN Developer | Next.js | React | Node.js
 </h3>
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=sumit-yadav-001&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
@@ -21,7 +19,7 @@ Hi, I'm Sumit Yadav, a Computer Science and Engineering graduate (2025) from Tec
 - 🔭 Currently working on **MERN Stack Projects**
 - 🌱 Currently learning **Next.js & System Design**
 - 💬 Ask me about **React, Node, MongoDB**
-- 📫 Reach me at **your email**
+- 📫 Reach me at **sumityadav0370@gmail.com**
 - ⚡ Passionate about **UI & Performance Optimization**
 
 ---
@@ -37,7 +35,8 @@ Hi, I'm Sumit Yadav, a Computer Science and Engineering graduate (2025) from Tec
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=sumit-yadav-001&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-yadav-001&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -45,7 +44,7 @@ Hi, I'm Sumit Yadav, a Computer Science and Engineering graduate (2025) from Tec
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=sumit-yadav-001&theme=tokyonight" />
 </p>
 
 ---
@@ -53,7 +52,7 @@ Hi, I'm Sumit Yadav, a Computer Science and Engineering graduate (2025) from Tec
 # 📈 GitHub Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumit-yadav-001&theme=react-dark"/>
 </p>
 
 ---
@@ -61,7 +60,7 @@ Hi, I'm Sumit Yadav, a Computer Science and Engineering graduate (2025) from Tec
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sumit-yadav-001&theme=darkhub&no-frame=true&margin-w=15"/>
 </p>
 
 ---
@@ -79,15 +78,14 @@ Hi, I'm Sumit Yadav, a Computer Science and Engineering graduate (2025) from Tec
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="https://linkedin.com/in/sumit-yadav-00192s">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME">
+
+<a href="https://github.com/sumit-yadav-001">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-<a href="https://twitter.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
+
 </p>
 
 ---
@@ -95,7 +93,7 @@ Hi, I'm Sumit Yadav, a Computer Science and Engineering graduate (2025) from Tec
 # 🎯 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/sumit-yadav-001/sumit-yadav-001/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---

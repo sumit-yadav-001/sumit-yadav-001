@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&animation=fadeIn)
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;Building+Modern+Web+Applications;Open+To+Work+🚀" />

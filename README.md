@@ -1,6 +1,16 @@
 <!-- Premium Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&animation=fadeIn"/>
 
+<!-- Developer Working Animation -->
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sumit+Yadav;Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Applications;Open+To+Work+🚀" />
+</p>
+
 <!-- Typing Animation -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sumit+Yadav;Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Applications;Open+To+Work+🚀" />

@@ -1,11 +1,11 @@
-
-
+<!-- Typing Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;Building+Modern+Web+Applications;Open+To+Work+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;Building+Modern+Web+Applications;Open+To+Work+🚀" />
 </p>
 
+<!-- Developer Working Animation (HD + Small) -->
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sumit Yadav</h1>
@@ -93,7 +93,6 @@ Hi, I'm Sumit Yadav, a Computer Science and Engineering graduate (2025) from Tec
 <a href="https://github.com/sumit-yadav-001">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-
 </p>
 
 ---

@@ -3,15 +3,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;Building+Modern+Web+Applications;Open+To+Work+🚀" />
 </p>
 
-<!-- Developer Working Animation (HD + Small) -->
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sumit Yadav</h1>
 
 <h3 align="center">
-Full Stack MERN Developer | Next.js | React | Node.js
+Full Stack Developer | Javascipt | React | Node.js |Expressjs| Mongodb | TailwindCSS 
 </h3>
 
 <p align="center">

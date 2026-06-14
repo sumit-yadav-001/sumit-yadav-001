@@ -77,6 +77,4 @@ Hi, I'm Sumit Yadav, a Computer Science and Engineering graduate (2025) from Tec
 </a>
 </p>
 
----
 
-<h3 align="center">⭐ From Sumit Yadav | MERN Stack Developer ⭐</h3>

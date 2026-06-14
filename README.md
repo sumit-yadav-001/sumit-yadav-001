@@ -55,14 +55,6 @@ Hi, I'm Sumit Yadav, a Computer Science and Engineering graduate (2025) from Tec
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sumit-yadav-001&theme=darkhub&no-frame=true&margin-w=15"/>
-</p>
-
----
-
 # 🚀 Projects
 
 - 🔥 StudyNotion (MERN Stack)
@@ -83,14 +75,6 @@ Hi, I'm Sumit Yadav, a Computer Science and Engineering graduate (2025) from Tec
 <a href="https://github.com/sumit-yadav-001">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-</p>
-
----
-
-# 🎯 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/sumit-yadav-001/sumit-yadav-001/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---

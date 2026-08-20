@@ -39,12 +39,6 @@ Hi, I'm Sumit Yadav, a Computer Science and Engineering graduate (2025) from Tec
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=sumit-yadav-001&theme=tokyonight" />
-</p>
-
 ---
 
 # 📈 GitHub Activity Graph
